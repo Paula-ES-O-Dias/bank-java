@@ -1,5 +1,7 @@
 package com.bank.study.condicoes;
 
+import com.bank.model.Pessoa;
+
 import java.util.Scanner;
 
 public class TesteCondicoes {
@@ -29,3 +31,5 @@ public class TesteCondicoes {
         }
     }
 }
+
+
